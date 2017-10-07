@@ -1,7 +1,7 @@
 {
-  "name": "spectacle-boilerplate",
+  "name": "module-talk",
   "version": "1.0.1",
-  "description": "ReactJS Powered Presentation Framework",
+  "description": "An unconference talk about ES Modules",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf dist",
